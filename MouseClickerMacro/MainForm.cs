@@ -169,10 +169,10 @@ namespace MouseClickerMacro
 				new Point(684, 473)
 			};
 			int[] delays= {
-				300,
-				300,
-				300,
-				650,
+				200,
+				200,
+				200,
+				500
 			};
 			while (usedRunnableAlive)
 			{
@@ -199,7 +199,7 @@ namespace MouseClickerMacro
 				300,
 				300,
 				300,
-				650,
+				800,
 				300
 			};
 			while (boughtRunnableAlive)
